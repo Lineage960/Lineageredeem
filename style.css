@@ -1,0 +1,63 @@
+@keyframes Change {
+
+}
+
+.Title{
+  padding-bottom: 25px;
+  text-align: center;
+  font-size: 50px;
+  font-family: serif;
+  display: flow-root;
+  color: yellow;
+}
+
+.SubTitle{
+  padding-top: 25px;
+  padding-bottom: 50px;
+  text-align: center;
+  font-family: serif;
+  font-size: 40px;
+}
+
+.Line{
+  height: 5px;
+  background-color: green;
+  opacity: 0.7;
+}
+
+.GamekitImg{
+  display: block;
+  margin: auto;
+  height: 200px;
+  width: 200px;
+  border-radius: 4px;
+  padding-bottom: 25px;
+}
+
+.Center{
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+P{
+  text-align: center;
+  font-family: sans-serif;
+}
+
+input{
+  display: inline-block;
+  text-align: center;
+  margin: auto;
+  border-radius: 5px;
+}
+
+button{
+  display: inline-block;
+  margin: auto;
+  color: green;
+  border-radius: 5px;
+}
+
+.Sep{
+  padding-bottom: 20px;
+}
